@@ -5,7 +5,6 @@ Mandala creation system in Unity3D. Written by C#.
 
 ---
 
-![Image](https://i.ibb.co/D7MXVdL/Ekran-Al-nt-s.png)
 [![Video](https://i.ibb.co/D7MXVdL/Ekran-Al-nt-s.png)](https://www.youtube.com/watch?v=q6zyS8_S2YQ)
 
 ---
